@@ -1,0 +1,17 @@
+{
+  "name": "aelora-post-blocks",
+  "version": "0.2.0",
+  "description": "Adds a column to post list table with the Gutenberg blocks it uses",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error:no test specified\" && exit 1"
+  },
+  "author": "Ryan Nutt",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "grunt-bump": "^0.8.0",
+    "grunt-notify": "^0.4.5",
+    "grunt-text-replace": "^0.4.0",
+    "grunt-wp-i18n": "^1.0.3"
+  }
+}

@@ -1,0 +1,49 @@
+# Copyright (C) 2020 Ryan Nutt
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Blocks 0.1.1\n"
+"Report-Msgid-Bugs-To: https://github.com/ryannutt/wordpress-post-blocks\n"
+"POT-Creation-Date: 2020-01-15 18:52:01+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: post-blocks.php:45
+msgid "Blocks"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Post Blocks"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/ryannutt/wordpress-post-blocks"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a column to the post table that lists what blocks the post is using."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ryan Nutt"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.nutt.net"
+msgstr ""
